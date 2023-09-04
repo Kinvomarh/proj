@@ -7,6 +7,7 @@ public class MainApplication {
         System.out.println("10000001");
         System.out.println("22222222");
         System.out.println("33333333");
+        System.out.println("--------");
 
         doSomething();
     }
